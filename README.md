@@ -6,6 +6,8 @@
 
 ## About me
 
+<!-- Tareas Pendientes -->
+
 Hi, I'm Mona. You might recognize me as GitHub's mascot.
 <details>
 <summary>My top Animales Favoritos</summary>
