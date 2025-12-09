@@ -17,6 +17,10 @@ Hi, I'm Mona. You might recognize me as GitHub's mascot.
 |     3| Capibara  |
 
 </details>
+
+
 ---
-> QUOTE
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
 
