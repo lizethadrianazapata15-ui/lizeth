@@ -7,10 +7,14 @@
 ## About me
 
 Hi, I'm Mona. You might recognize me as GitHub's mascot.
+<details>
+<summary>My top Animales Favoritos</summary>
 
 | Rank | Animales Favoritos |
 |-----:|-----------|
 |     1| Perro     |
 |     2| Delfin    |
 |     3| Capibara  |
+
+</details>
 
